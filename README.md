@@ -9,7 +9,7 @@ I'm looking for opportunities (summer internships) in Finance, Trading, and Data
 <br>Interests/hobbies: Financial Markets, Investing, Machine Learning, Esports (League), Travel, Photography, Architecture, Musical Theater<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vu-dieu-linh-hoang/) 
 
 # 💻 Tech Stack:
