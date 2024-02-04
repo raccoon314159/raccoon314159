@@ -1,8 +1,10 @@
 # 💫 About Me:
-I'm currently learning Data Science and Machine Learning. 
-<br>Some projects I have been trying to fit into my schedule: 
-<br>Food delivery app
-<br>Stock prediction model 
+I'm currently learning Data Science and Machine Learning. <br>
+Some projects I have been trying to fit into my schedule: 
+<ul>
+<li>Food delivery app</li>
+<li>Stock prediction model</li> 
+</ul> 
 <br>I'm looking for opportunities (summer internships) in Finance, Trading, and Data Science.
 <br>I'm looking for an accountability buddy who would like to hold me accountable for practicing Leetcode regularly.
 <br>Interests/hobbies: Financial Markets, Investing, Machine Learning, Esports (League), Travel, Photography, Architecture, Musical Theater<br>
