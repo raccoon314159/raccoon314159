@@ -6,7 +6,6 @@ Some projects I have been trying to fit into my schedule:
 <li>Stock prediction model</li> 
 </ul> 
 I'm looking for opportunities (summer internships) in Finance, Trading, and Data Science.
-<br>I'm looking for an accountability buddy who would like to hold me accountable for practicing Leetcode regularly.
 <br>Interests/hobbies: Financial Markets, Investing, Machine Learning, Esports (League), Travel, Photography, Architecture, Musical Theater<br>
 
 
