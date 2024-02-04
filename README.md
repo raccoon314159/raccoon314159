@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently learning Data Science and Machine Learning. <br>Some projects I have been trying to fit into my schedule: 
+I'm currently learning Data Science and Machine Learning. 
+<br>Some projects I have been trying to fit into my schedule: 
 <br>Food delivery app
 <br>Stock prediction model 
 <br>I'm looking for opportunities (summer internships) in Finance, Trading, and Data Science.
