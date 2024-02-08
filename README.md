@@ -1,10 +1,5 @@
 # 💫 About Me:
 I'm currently learning Data Science and Machine Learning. <br>
-Some projects I have been trying to fit into my schedule: 
-<ul>
-<li>Food delivery app</li>
-<li>Stock prediction model</li> 
-</ul> 
 I'm looking for opportunities (summer internships) in Finance, Trading, and Data Science.
 <br>Interests/hobbies: Financial Markets, Investing, Machine Learning, Esports (League), Travel, Photography, Architecture, Musical Theater<br>
 
